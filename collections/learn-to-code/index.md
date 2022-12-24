@@ -33,6 +33,7 @@ items:
  - gothinkster/realworld
  - thedaviddias/Front-End-Checklist
  - gustavofreze/kotlin4noobs
+ - hexlet-basics/hexlet-basics
 
 display_name: Learn to Code
 created_by: alysonla
